@@ -331,4 +331,6 @@ print("seçilen dosya 1 ", dosya1)
 print("seçilen dosya 2 ",dosya2)
 
 """
+print("asena ayaz")
+
 
